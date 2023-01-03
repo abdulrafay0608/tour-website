@@ -1,0 +1,119 @@
+.heading{
+    text-align: center;
+    background-color: lightblue;
+    height: 105px;
+}
+.pack{
+    font-size: 60px;
+    padding: 0%;
+    margin: 0%;
+}
+.link{
+    font-family: Arial;
+}
+.image{
+    display: flex;    
+}
+img{
+    border-radius: 15px;
+}
+.bacha1{
+    border-color: grey;
+    border-style:solid ;
+    border-radius: 12px;
+    height: 300px;
+    width: 250px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial;
+    background-color: lightblue;
+    height:230px ;
+    padding: 4px;
+    margin: 4px;
+}
+.bacha2{
+    border-color: grey;
+    border-style:solid ;
+    border-radius: 12px;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial;
+    background-color: lightblue;
+    height:230px ;
+    padding: 4px;
+    margin: 4px;
+}
+.bacha3{
+    border-color: grey;
+    border-style:solid ;
+    border-radius: 12px;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial;
+    background-color: lightblue;
+    height:230px ;
+    padding: 4px;
+    margin: 4px;
+}
+.bacha4{
+    border-color: grey;
+    border-style:solid ;
+    border-radius: 12px;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial;
+    background-color: lightblue;
+    height:230px ;
+    padding: 4px;
+    margin: 4px;
+}
+.bacha5{
+    border-color: grey;
+    border-style:solid ;
+    border-radius: 12px;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial;
+    background-color: lightblue;
+    height:230px ;
+    padding: 4px;
+    margin: 4px;
+}
+.pxs{
+    padding-top: 30px;
+    line-height: 0.28in;
+    font-family: Arial;
+}
+.Tour1{
+    background-color: lightblue;
+    font-family: Impact;
+    font-size: 19px;
+}
+.Tour2{
+    background-color: lightblue;
+    font-family: Impact;
+    font-size: 19px;
+}
+.Tour3{
+    background-color: lightblue;
+    font-family: Impact;
+    font-size: 19px;
+}
+.Tour4{
+    background-color: lightblue;
+    font-family: Impact;
+    font-size: 19px;
+}
+.Tour5{
+    background-color: lightblue;
+    font-family: Impact;
+    font-size: 19px;
+}

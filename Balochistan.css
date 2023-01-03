@@ -1,0 +1,31 @@
+.top{
+    text-align: center;
+    background-color: lightblue;
+    height: 105px;
+    
+}
+p{
+    margin-top: 0px;
+}
+.head{
+    font-size: 60px;
+    margin: 0px;
+}
+.link{
+    font-family: Arial;
+    
+}
+.para{
+    font-weight: bold;
+    font-size: 20px;
+    padding: 50px;
+    line-height: 0.5in;
+    font-size: 25px;
+    color: blue;
+
+}
+.para0{
+    font-family: Arial;
+    line-height: 0.28in;
+    padding-top: 30px
+}

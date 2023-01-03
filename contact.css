@@ -1,0 +1,28 @@
+.book{
+    text-align: center;
+    background-color: lightblue;
+    height: 105px;
+}
+.contact{
+    font-size: 60px;
+    padding: 0px;
+    margin: 0px;
+}
+.first-div{
+    padding-left: 12px;
+    border: solid;
+    border-color: black;   
+}
+.parent-div{
+    display: flex;
+}
+.second-div{
+    padding-left: 50px;
+    padding-top: 50px;
+    font-size: 25px;
+}
+.me{
+    font-size: 50px;
+    font-family: Arial;
+    color: blue;
+}
